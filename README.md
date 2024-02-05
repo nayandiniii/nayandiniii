@@ -28,18 +28,12 @@ Describe your second project using a similar format.
 - Web Development
 - AWS
 - AI/ML
-  
-
-## 🎓 Education
-
-- Mention your educational background.
 
 ## 📧 Contact
 
-- Provide ways for people to contact you (email, LinkedIn, etc.).
+- [Linkedin](https://www.linkedin.com/in/nandini-sharma-1796381b5/)
+- [Portfolio](https://nayandiniii.github.io/Portfolio/)
+- [E-mail](mailto:nandini.september21@gmail.com)
 
-## 🌐 Social Media
-
-- Include links to your social media profiles if you wish.
 
 
